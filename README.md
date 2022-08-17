@@ -1,1 +1,0 @@
-# Repositório referente ao scripts SQL do modo BD da Devaria
